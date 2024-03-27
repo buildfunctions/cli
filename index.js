@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 function sayHello() {
-    console.log("Hello, world! A deploy command executed from the CLI");
+    console.log("Hello, world! A deploy command executed from the CLI.");
 }
 
 if (require.main === module) {
